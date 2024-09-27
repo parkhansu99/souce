@@ -1,0 +1,1 @@
+Get-Command  # 모든 명령어 나열
